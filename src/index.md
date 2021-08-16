@@ -8,4 +8,4 @@ Memnix is a project that aims to create tools to facilitate learning for student
 
 ## Articles
 
-- [First Post](posts/first.html)
+- [First Post](first.html)
