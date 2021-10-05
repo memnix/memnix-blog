@@ -4,8 +4,9 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://memnix.github.io/memnix-blog//archive.html</loc><lastmod>2021-08-16</lastmod><priority>1.0</priority></url>
-<url><loc>https://memnix.github.io/memnix-blog//about.html</loc><lastmod>2021-08-16</lastmod><priority>1.0</priority></url>
-<url><loc>https://memnix.github.io/memnix-blog//first.html</loc><lastmod>2021-08-16</lastmod><priority>1.0</priority></url>
-<url><loc>https://memnix.github.io/memnix-blog//index.html</loc><lastmod>2021-08-16</lastmod><priority>1.0</priority></url>
+<url><loc>https://memnix.github.io/memnix-blog//archive.html</loc><lastmod>2021-10-05</lastmod><priority>1.0</priority></url>
+<url><loc>https://memnix.github.io/memnix-blog//rest-api.html</loc><lastmod>2021-10-05</lastmod><priority>1.0</priority></url>
+<url><loc>https://memnix.github.io/memnix-blog//about.html</loc><lastmod>2021-10-05</lastmod><priority>1.0</priority></url>
+<url><loc>https://memnix.github.io/memnix-blog//first.html</loc><lastmod>2021-10-05</lastmod><priority>1.0</priority></url>
+<url><loc>https://memnix.github.io/memnix-blog//index.html</loc><lastmod>2021-10-05</lastmod><priority>1.0</priority></url>
 </urlset>
